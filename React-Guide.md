@@ -1,6 +1,6 @@
 # React Application Design Guide for Beginners
 
-This guide explains how the React frontend of this Enterprise RAG system works, helping you understand the code structure and how to address future issues.
+*Note: For a more detailed technical breakdown, see [React-Application-Design-Guide.md](./React-Application-Design-Guide.md).*
 
 ## 1. Core Concepts
 React is a library for building user interfaces using **Components**. A component is a self-contained piece of UI (like a Button or a ChatWindow).
